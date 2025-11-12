@@ -105,5 +105,5 @@ platforms:
     name: "掘金"
   - id: "github-trending-today"
     name: "GitHub 今日热门"
-  - id: "chongbuluo-hot"
-    name: "虫部落（热门）"
+  - id: "v2ex-share"
+    name: "V2EX"
